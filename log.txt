@@ -1,0 +1,27 @@
+2022-11-01 21:30:54,382 Get alleles file.
+2022-11-01 21:30:54,383 Get fasta files.
+2022-11-01 21:31:05,970 Get nucleo from chr1.
+2022-11-01 21:31:07,040 Get nucleo from chr2.
+2022-11-01 21:31:08,239 Get nucleo from chr3.
+2022-11-01 21:31:10,100 Get nucleo from chr4.
+2022-11-01 21:31:11,374 Get nucleo from chr5.
+2022-11-01 21:31:11,480 Get nucleo from chr6.
+2022-11-01 21:31:11,579 Get nucleo from chr7.
+2022-11-01 21:31:11,683 Get nucleo from chr8.
+2022-11-01 21:31:11,781 Get nucleo from chr9.
+2022-11-01 21:31:12,970 Get nucleo from chr10.
+2022-11-01 21:31:13,219 Get nucleo from chr11.
+2022-11-01 21:31:13,322 Get nucleo from chr12.
+2022-11-01 21:31:13,421 Get nucleo from chr13.
+2022-11-01 21:31:13,514 Get nucleo from chr14.
+2022-11-01 21:31:13,609 Get nucleo from chr15.
+2022-11-01 21:31:13,705 Get nucleo from chr16.
+2022-11-01 21:31:13,800 Get nucleo from chr17.
+2022-11-01 21:31:13,892 Get nucleo from chr18.
+2022-11-01 21:31:13,983 Get nucleo from chr19.
+2022-11-01 21:31:14,076 Get nucleo from chr20.
+2022-11-01 21:31:14,174 Get nucleo from chr21.
+2022-11-01 21:31:14,266 Get nucleo from chr22.
+2022-11-01 21:31:14,280 Get with nucleo coincidense allele1 2440.
+2022-11-01 21:31:14,281 Get with nucleo coincidense allele2 2528.
+2022-11-01 21:31:14,282 Allele2 win!!!!!!!!!!
