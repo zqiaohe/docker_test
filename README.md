@@ -57,4 +57,3 @@ NR>1 {
 if($2 != 23)
 print "chr"$2, $4, "rs"$1, $5, $6}' FP_SNPs.txt > FP_SNPs_10k_GB38_twoAllelsFormat.txt
 
-'''
