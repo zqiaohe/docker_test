@@ -1,3 +1,5 @@
+# Тестовое задание на вакансию биоинформатика
+
 # Requiremets from pip
 
 > click==8.0.4
@@ -56,4 +58,5 @@ awk 'BEGIN {FS=OFS="\t"; print "CHROM#", "POS", "ID", "Allele1", "Allele2"}
 NR>1 {
 if($2 != 23)
 print "chr"$2, $4, "rs"$1, $5, $6}' FP_SNPs.txt > FP_SNPs_10k_GB38_twoAllelsFormat.txt
+
 
