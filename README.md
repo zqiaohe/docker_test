@@ -1,6 +1,6 @@
 # Тестовое задание на вакансию биоинформатика
 
-# Requiremets from pip
+## Requiremets from pip
 
 > click==8.0.4
 > 
@@ -42,7 +42,7 @@
 > 
 > zipp==3.6.0
 
-# Специальные пакеты
+## Специальные пакеты
 > Samtools 1.16.1  Sep 02, 2022
 > 
 > HTSlib 1.16 Aug 18, 2022
@@ -50,7 +50,7 @@
 > BCFtools 1.16 Aug 18, 2022
 
 
-# bash для получения FP_SNPs_10k_GB38_twoAllelsFormat.txt
+## bash для получения FP_SNPs_10k_GB38_twoAllelsFormat.txt
 
 ```console
 
